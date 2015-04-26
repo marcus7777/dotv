@@ -3,5 +3,5 @@
 
 ```
 cd
-git git@github.com:marcus7777/dotv.git .
+git clone git@github.com:marcus7777/dotv.git .
 ```
